@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "candidate-search",
     "version": "1.0.0",
@@ -21,3 +22,28 @@
         "vite": "^5.4.18"
     }
 }
+=======
+{
+    "name": "candidate-search",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "react-router-dom": "^6.23.1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.3.20",
+        "@types/react-dom": "^18.3.6",
+        "@vitejs/plugin-react": "^4.3.4",
+        "typescript": "^5.8.3",
+        "vite": "^5.4.18"
+    }
+}
+>>>>>>> ff7f069c43c55e9c162ab486d5aec33ac152b19d
